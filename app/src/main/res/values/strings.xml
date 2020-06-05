@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Tadp</string>
+    <string name="name">name</string>
+    <string name="nombre">Nombre</string>
+    <string name="Hola">Hola</string>
+    <string name="editar_datos">Editar Datos</string>
+    <string name="confirmar_datos">Confirmar Datos</string>
+    <string name="Guardar"><![CDATA[---->]]></string>
+    <string name="pnombre">nombre</string>
+    <string name="ptelefono">telefono</string>
+    <string name="pemail">email</string>
+    <string name="pdescripcion">descripcion</string>
+</resources>
